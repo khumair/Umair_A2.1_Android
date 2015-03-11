@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learnmix_hw</string>
+    <string name="title_activity_reg_activity">Reg_activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
